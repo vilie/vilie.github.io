@@ -56,3 +56,12 @@ and
 $$ r \begin{bmatrix} x_{1} \\ x_{2} \\ \end{bmatrix} =
    \begin{bmatrix} rx_{1} \\ rx_{2} \\ \end{bmatrix}
 $$
+
+Some similar exercise would be proving that the complex numbers (C) are a 
+vector space over the real numbers (R) field.
+
+The field denotes the nature of the vector space. A "complex vector space" is 
+a vector space over the complex numbers. This may seem hard grasp at first. 
+While adding two vectors may make sense, or adding a vector with itself may 
+make sense, what about multiplying a vector by $$ i $$. How would you 
+imagine adding $$ 2v $$ with $$ -iv $$.
