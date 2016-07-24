@@ -65,3 +65,6 @@ a vector space over the complex numbers. This may seem hard grasp at first.
 While adding two vectors may make sense, or adding a vector with itself may 
 make sense, what about multiplying a vector by $$ i $$. How would you 
 imagine adding $$ 2v $$ with $$ -iv $$.
+
+![placeholderredwdw](./public/img/2016_03_vectors_add.png "How would you image 2iv?")
+How would you imagine $$ 2i \cdot v $$ ?
